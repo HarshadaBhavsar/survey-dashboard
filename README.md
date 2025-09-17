@@ -49,4 +49,6 @@ The dashboard helps identify industry trends, highlight salary disparities, and 
 
 6. Screenshots / Demos :
 
-   Show what the dashboard looks like. 
+   Show what the dashboard looks like.
+   snapshot of dashboard.png<img width="1920" height="1080" alt="snapshot of dashboard" src="https://github.com/user-attachments/assets/ff98aeaf-f9ca-4d71-a175-4719797f57c5" />
+
